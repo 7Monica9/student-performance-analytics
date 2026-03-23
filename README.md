@@ -79,3 +79,8 @@ This project is designed as a **portfolio-ready PoC** to demonstrate:
 - **EdTech / instructional design applications**
 
 All data is **synthetic** and safe to **screen-share or include in a resume / portfolio**.
+<img width="2468" height="1072" alt="Analytics Dashboard1" src="https://github.com/user-attachments/assets/15ab7b40-045c-4691-9275-9914c836be1d" />
+
+<img width="2458" height="1188" alt="Analytics Dashboard2" src="https://github.com/user-attachments/assets/be557d80-4f29-4b6b-a812-af2e34e41b8f" />
+
+<img width="1782" height="1198" alt="Analytics Dashboard3" src="https://github.com/user-attachments/assets/2ca3f046-7ede-48c9-87b0-32e84cd1904b" />
